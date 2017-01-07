@@ -7,7 +7,7 @@
 This game is a clone of Frogger with some added functionalities. Use the arrow keys to move your hero and try to get the key. 
 Avoid the enemies ( a bug, 4 fishes, horned girl ) and reach 10 keys to win the game. You start with 5 lives.
 
-See the game live at http://ncabelin.github.io/udfrog
+See the game live at http://cabelin.com/key_swiper
 
 ## Features
 
